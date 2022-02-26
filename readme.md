@@ -1,5 +1,5 @@
 # image proccesing api
-
+## to install packages run `npm install`
 ## scripts 
     "prettier": will run prettier on the code
     "lint": will run eslint on the code
